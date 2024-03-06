@@ -13,5 +13,5 @@ Sorting algorithms
 ## Compile & Run
 With Rust 1.76 On Ubuntu
 
-    $ rustc Selection_sort.rs -o  ./target/main    #compile
+    $ rustc insertion_sort.rs -o  ./target/main    #compile
     $ ./target/main                            #run
