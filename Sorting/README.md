@@ -3,10 +3,12 @@
 Sorting algorithms 
 
 ## Current Task 
-**Task 1** : Selection  sort
+**Task 1** : Insertion  sort
 
 ## Previous Tasks 
 **Task 0** : Bubble  sort
+**Task 1** : Selection  sort
+
 
 
 
