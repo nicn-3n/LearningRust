@@ -4,7 +4,6 @@ fn main() {
     let mut data = [45, 78, 0, 55, 63, -52, 32, 98, 25, 7, 9, 3, 10, 11];
     let n = 14;
 
-    println!("{:?}",data);
 
 
     for i in 1..n {
@@ -18,6 +17,5 @@ fn main() {
         data[j]=to_insert;
     }
 
-    println!("{:?}",data);
 }
 
