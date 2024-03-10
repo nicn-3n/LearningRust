@@ -1,6 +1,6 @@
 fn main() {
 
-    let mut data = [45, 78, 0, 55, 63, -52, 32, 98, 25, 7, 9, 3, 10, 11];
+    let mut data = [45, 78, 0, 55, 63, -52, 32, 98, 25, 7, 9, 3, 10, 11, 98];
     let n = 14;
 
     println!( "Initial data : {:?}",data);
